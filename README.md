@@ -9,6 +9,7 @@ i use gemini to assiste me a lot since i new to C but am not vibe coded if it a 
 
 #### how to use this?
 first install yt-dlp and mpv
-'sudo pacman -S yt-dlp mpv'
+`sudo pacman -S yt-dlp mpv`
 what next? complie the code and use it :)
-'gcc main.c -o ye'
+`gcc main.c -o ye`
+`./ye`
